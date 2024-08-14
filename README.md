@@ -1,7 +1,4 @@
 1️⃣ Desafio Classificador de nível de Herói
-
-Projeto para o curso de Lógica de Programação da DIO
-
 O Que deve ser utilizado
 
 Variáveis
